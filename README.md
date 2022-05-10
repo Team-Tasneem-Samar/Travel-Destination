@@ -69,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Travel-Destination
+
+
+
+#What observations or questions do you have about what you’ve learned so far?
+about link social media
+How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
+5 hour
