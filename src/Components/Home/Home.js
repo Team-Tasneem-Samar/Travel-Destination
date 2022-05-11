@@ -1,4 +1,3 @@
-
 import Header from '../Header/Header';
 import Tours from '../Tours/Tours';
 import Footer from '../Footer/Footer';
@@ -9,19 +8,10 @@ function Home() {
   return (
     <>
     <Header/>
+    <p>welcom to Home page</p>
     
+    <Tours/>
     
-
-    {
-
-        dataTravel.map(trav =>{
-            return(
-                <Tours  name={trav.name} image={trav.image}/>
-            )
-        })
-        }
-    
-
     <Footer />
   
        </>
