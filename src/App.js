@@ -1,11 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
-
-import Home from './Components/Home/Home'
+import { Routes, Route  } from "react-router-dom";
+import Home from './Components/Home/Home';
+import TourDetails from './Components/TourDetails/TourDetails'
 
 function App() {
   return (
-  <Home/>
+    <>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/city/:id" element={<TourDetails />} />
+      </Routes>
+
+
+
+    </>
    
 
   );

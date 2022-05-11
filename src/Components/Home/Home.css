@@ -1,0 +1,7 @@
+.tours{
+    display: grid;
+grid-template-columns: auto auto ;
+text-align: center;
+background-image: linear-gradient(rgb(70, 101, 150),rgb(143, 44, 160));
+padding-bottom: 5%;
+}
