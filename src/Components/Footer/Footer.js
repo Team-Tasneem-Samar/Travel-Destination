@@ -1,25 +1,14 @@
+function Footer() {
+    return ( 
+    <>
+        <p > Created by tasneem - samar.©2022 </p>
 
+        <a href = "https://ar-ar.facebook.com/" > Facebook </a> 
+        <a href = "https://twitter.com/" > Twitter </a>
+         <a href = "https://www.instagram.com/" > Instgrame </a> 
+         <a href = "https://www.linkedin.com/" > Linkedin </a> 
+        </>
 
-function Footer(){
-    return(
-        <>
-         <p> Created by tasneem-samar. © 2022</p>
-      
-
-
-         <a href='https://github.com/'>GitHub</a>
-            <br></br>
-            <a href='https://ar-ar.facebook.com/'>Facebook</a>
-            <br></br>
-            <a href='https://web.whatsapp.com/'>whatsapp</a>
-       
-       
-       
-
-
-
-    </>
-    
     )
 
 }
