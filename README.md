@@ -71,8 +71,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Travel-Destination
 
 
-
+//////////////////////////////////////////
 #What observations or questions do you have about what you’ve learned so far?
-about link social media
+used params take me to research along time 
+
 How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
-5 hour
+8 hour
