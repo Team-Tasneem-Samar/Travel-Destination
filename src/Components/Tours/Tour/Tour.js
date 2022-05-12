@@ -1,26 +1,9 @@
-// import Data from '../../../Data/db.json'
-const Data = require("../../../Data/db.json");
 
-function Tour (){
+export default function tour(props){
     return(
-        <div>
-            {
-            Data.map (params => {
-                return(
-                    <div>
-                        <h1>{params.name}</h1>
-                        <img src={params.image} alt={params.name}/>
-
-                    </div>
-
-                
-                )
-            })  
-            }
-      
-        </div>
+        <div className="divStyle">
+        <h2 className="title">{props.dataWithKey.name}</h2>
+        <img className="image" src={props.dataWithKey.image} alt ="seen" ></img>
+    </div>
     )
 }
-
-
-export default Tour;
